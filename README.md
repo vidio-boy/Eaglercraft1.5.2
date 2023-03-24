@@ -16,6 +16,10 @@
 <p>4. Open the file and let it load.</p>
 </p>
 
+<p>
+<h1>Servers</h1>
+Go to <link>https://docs.google.com/document/d/1PhUJSb0ojMyhv1Fs8bmVqwANBkySOgdyfRinJto3xnE/edit <alt>this doc<link>
+
 <h1>IMPORTANT!</h1>
 
 <p>
