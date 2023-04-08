@@ -30,3 +30,5 @@ When you create a new world, it will be a black screen, or you may have spawned 
 <div>
 
 <footer><small><b>Disclaimer:</b> I do not own Eaglercraft, and I am not associated with it in any way, this is just a way for people to access it fullscreen on browser.<small><footer>
+
+</html>
